@@ -88,9 +88,6 @@ var isValid = function (s) {
 
 [How CORS (Cross-Origin Resource Sharing) Works](https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e)
 
-### 阅读点评
-
-
 
 ## Tip
 
